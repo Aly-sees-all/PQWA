@@ -1,0 +1,3 @@
+C:/Users/Am2-munir/CLionProjects/PQWA/cmake-build-debug/CMakeFiles/PQWA.dir
+C:/Users/Am2-munir/CLionProjects/PQWA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Am2-munir/CLionProjects/PQWA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
