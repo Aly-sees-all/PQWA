@@ -2,7 +2,6 @@
 // Created by Am2-munir on 22/04/2026.
 //
 /* waveform.h - struct definition and function declarations */
-/* ERRORS TO FIND: 2 */
 
 #ifndef WAVEFORM_H
 #define WAVEFORM_H

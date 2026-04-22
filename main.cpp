@@ -35,14 +35,10 @@ int main(int argc, char *argv[]) {
 
     /* Clean up */
     free(samples);
-    return;
+    return 0;
 }
 
 void free([[maybe_unused]] WaveformSample *samples) {
-
-}
-
-void write_results(PhaseResult results[3]) {
 
 }
 

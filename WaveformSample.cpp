@@ -1,5 +1,5 @@
 /* waveform.c - analysis functions */
-/* ERRORS TO FIND: 3 */
+
 
 #include "WaveformSample.h"
 #include <cmath>

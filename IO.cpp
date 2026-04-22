@@ -1,5 +1,4 @@
 /* io.c - loading CSV and writing results */
-/* ERRORS TO FIND: 3 */
 
 #include "IO.h"
 #include <cstdio>
